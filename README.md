@@ -1,6 +1,14 @@
 # telecine-node
 Script node.js para exibir a programação do dia dos canais Telecine
 
+## Instalação
+
+`npm install`
+
+## Run
+
+`node index`
+
 ## Output
 
 ```
